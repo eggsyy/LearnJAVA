@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1d9841e-8f29-4ab6-8f85-b335da26a95d" name="Default" comment="8月9号更新">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Date_Pra/DateDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Date_Pra/PrintfTime_Pra.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Date_Pra/SimpleDateFormat_Pra.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Method_Pra/CommandLine_Pra.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Method_Pra/ConsDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Method_Pra/FinalizationDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Method_Pra/MaxMethod_Pra.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Method_Pra/PassByValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Method_Pra/VarargsDemo.java" />
+    <list default="true" id="f1d9841e-8f29-4ab6-8f85-b335da26a95d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -36,8 +27,8 @@
       <file leaf-file-name="PassByValue.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Method_Pra/PassByValue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="504">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -430,7 +421,7 @@
       <workItem from="1502096383802" duration="6141000" />
       <workItem from="1502163601410" duration="12057000" />
       <workItem from="1502262440464" duration="459000" />
-      <workItem from="1502266134491" duration="5931000" />
+      <workItem from="1502266134491" duration="5988000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1502262660626</created>
@@ -439,11 +430,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502262660626</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="8月9号更新">
+      <created>1502273112099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1502273112099</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24876000" />
+    <option name="totallyTimeSpent" value="24933000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="802" y="2" width="1119" height="1040" extended-state="0" />
@@ -461,7 +459,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17135087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17135087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -772,8 +770,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Method_Pra/PassByValue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="504">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
